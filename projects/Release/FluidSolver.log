@@ -1,0 +1,15 @@
+﻿  main.cpp
+..\src\main.cpp(62): warning C4018: '<=': no coinciden signed/unsigned
+..\src\main.cpp(63): warning C4018: '<=': no coinciden signed/unsigned
+  solver.cpp
+..\src\solver.cpp(192): warning C4018: '<=': no coinciden signed/unsigned
+..\src\solver.cpp(204): warning C4018: '<=': no coinciden signed/unsigned
+..\src\solver.cpp(328): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+..\src\solver.cpp(329): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+..\src\solver.cpp(383): warning C4101: 'k': variable local sin referencia
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+  Generando código
+  All 51 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  FluidSolver.vcxproj -> D:\U-TAD\PracticaFluidosRBM\PracticaFluidos\Release\FluidSolver.exe
+  FluidSolver.vcxproj -> D:\U-TAD\PracticaFluidosRBM\PracticaFluidos\Release\FluidSolver.pdb (Full PDB)
